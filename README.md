@@ -7,7 +7,7 @@ My Cashier vai ajudar empresas a terem uma melhor organização no seu caixa, co
 | :label: Tecnologias | TypeScript, Reactjs, Tailwind
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://cdn.discordapp.com/attachments/751139056414490676/1044393348653400175/unknown.png#vitrinedev)
 
 ## Detalhes do projeto
 
