@@ -1,5 +1,5 @@
 import { MenuComponent } from './components/MenuComponent';
-import { DashboardPage } from './pages/dasboard';
+import { DashboardPage } from './pages/Dasboard';
 
 import './App.css';
 
