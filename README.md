@@ -4,7 +4,7 @@ My Cashier vai ajudar empresas a terem uma melhor organização no seu caixa, co
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **My Cashier**
-| :label: Tecnologias | TypeScript, Reactjs, Tailwind
+| :label: Tecnologias | TypeScript, Reactjs, Mui
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://cdn.discordapp.com/attachments/751139056414490676/1044393348653400175/unknown.png#vitrinedev)
