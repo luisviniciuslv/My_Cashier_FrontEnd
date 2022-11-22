@@ -3,7 +3,7 @@ My Cashier vai ajudar empresas a terem uma melhor organização no seu caixa, co
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **My Cashier**
+| :sparkles: Nome        | **My Cashier Front-End**
 | :label: Tecnologias | TypeScript, Reactjs, Mui
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
