@@ -1,5 +1,5 @@
 # My Cashier Front-End
-My Cashier vai ajudar empresas a terem uma melhor organização no seu caixa, com informações e graficos importantes para seu desenvolvimentoo
+My Cashier vai ajudar empresas a terem uma melhor organização no seu caixa, com informações e graficos importantes para seu desenvolvimento
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
