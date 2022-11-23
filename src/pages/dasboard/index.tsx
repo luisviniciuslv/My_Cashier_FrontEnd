@@ -4,6 +4,7 @@ import AccessibilityNewIcon from '@mui/icons-material/AccessibilityNew';
 
 import './style.css'
 import { ProfileComponent } from '../../components/ProfileComponent';
+import { TableComponent } from '../../components/TableComponent';
 
 export const DashboardPage: React.FC = () => {
     return (
@@ -35,7 +36,7 @@ export const DashboardPage: React.FC = () => {
                 </div>
             </div>
             <div className='dashboard-table'>
-                table
+                <TableComponent />
             </div>
         </div>
     );
